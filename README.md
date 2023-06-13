@@ -5,4 +5,5 @@ This Python program focuses on performing barrel distortion on an image and appl
 
 ## Notable technologies used:
 > NumPy
+> 
 > OpenCV
